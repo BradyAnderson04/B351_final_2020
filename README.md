@@ -1,3 +1,9 @@
+# Future Plans:
+
+December 2020
+I want to revisit this code when I get a better idea of how to create AI and improve a method of getting game state of our space invaders remake. I would also like to upgrade the space invaders game to be more advanced and have multidirectional attack, which would add some possible states for the AI to choose from in the future.
+
+
 # B351-Final-Project
 
 Repository that serves to host Space Invaders AI project for Intro to AI course at IU.
